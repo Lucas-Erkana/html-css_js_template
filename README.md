@@ -1,13 +1,11 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# <Name of Project>
+<Name of Project>
 
 <Project Desction here>
 
 ## Built With
-
 - HTML and CSS
--JS
+
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
