@@ -2,9 +2,8 @@
 
 # Project:
 
-## In the fourth milestone the portfolio website, you will:
+## In the first milestone the Capstone website, you will:
 
->Evaluate your website against accessibility best practices and implement any necessary changes to ensure that your website is accessible.
 
 # Project Screenshot image
 
