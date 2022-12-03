@@ -1,46 +1,18 @@
+# Project Name <!---Title of Project-->
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
-=======
+## Project Name <!---Title of Project-->
 
-## Capstone-Project: Programming Competion-page
+This project is about a .....................................
 
-This project is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
-The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition.
-There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
-This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities.
-The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
-
-
-[Loom Video Presentation](https://www.loom.com/share/d944d03df6ae4517b6de41aefbb00da7)
->>>>>>> efb449574a89f51f74a8b2fc2fbc8a9489b5f399
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="/images/murple_logo.png" alt="logo" width="140"  height="auto" /> <!---Organization logo-->
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Microverse</b></h3>
 
 </div>
 
@@ -61,15 +33,30 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Capstone-Project: Programming Competion-page <a name="about-project"></a>
+# 📖 Project name<a name="about-project"></a> <!---Project title-->
+<table style="border: 2px solid black;">
+  <tr>
+    <th style="border: 1px solid black;">Desktop Version</th>
+    <th>Mobile Version</th>
+  </tr>
+  <tr style="border: 2px solid black;">
+  <td style="border: 1px solid black;"><img src="/images/DesktopVersion.jpg" alt="Desktop Version" width="140"  height="auto" /></td>
+  <td><img src="/images/MobileVersion.jpg" alt="Mobile Version" width="140"  height="auto" /></td>
+  </tr>
+</table>
+**Project name** is a website that will......................................... 
 
-**[Capstone-Project: Programming Competion-page]** is about a Programming competition which was held in Windhoek, Namibai at the Namibia Univeristy of Science and Technology.
-The Faculty of Computing and Informatics invited high schools and tertiary students to participate in the 7th NUST Annual National Programming Competition.
-There were amazing prizes to be won such as cash prizes, trophies, gadgets, medals and much more.
-This is made as Final Project (Capstone), of 1st Module at Microverse in order to attract job opportunities.
-The main objective is to develop a professional website which showcase my professional skills and also will meet the requirements of a client and be able to meet deadlines.
+Here are some features of the page:
 
-[Loom Video Presentation](https://www.loom.com/share/d944d03df6ae4517b6de41aefbb00da7)
+<ul>
+  <li>Feature 1</li>
+  <li>Feature 2</li>
+  <li>Feature 3</li>
+  <li>Feature 4</li>
+</ul>
+
+
+
 
 ## 🛠 Built With <a name="built-with"></a>
     HTML
@@ -83,7 +70,7 @@ The main objective is to develop a professional website which showcase my profes
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[NUST Programming Competition link](https://lucash2022.github.io/Capstone-Project-Competition-page/)
+[Random Password Generator]( https://lucash2022.github.io/Awesome_Book/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,9 +83,9 @@ The main objective is to develop a professional website which showcase my profes
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Capstone-Project-Competition-page.git
+- On the terminal run this command git clone https://github.com/Lucash2022/Awesome_Book.git
 
-- Go to the repository folder using command prompt cd LucasErkanaPortfolio_Website.
+- Go to the repository folder using command prompt cd Awesome_Book.
 
 - Install the dev dependencies for linters run npm install.
 
@@ -123,9 +110,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Capstone-Project-Competition-page.git
+- On the terminal run this command git clone https://github.com/Lucash2022/[name of repositor].git
 
-- Go to the repository folder using command prompt cd LucasErkanaPortfolio_Website.
+- Go to the repository folder using command prompt cd [name of repository].
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -135,11 +122,13 @@ Clone this repository to your desired folder:
 
 <!-- Author -->
 
-👤 **Author**
+## 👤**Authors** <a name="authors"></a>
+<h4>Author name</h4>
 
 - GitHub: [@githubhandle](https://github.com/Lucash2022)
 - Twitter: [@twitterhandle](https://twitter.com/@Lucas_David_22)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
+-Facebook: [@facebook](https://www.facebook.com/lucash.toni)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,9 +137,10 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Implement some UX improvements: add the "More" button on the home page, include transitions and/or animation
 
-- Implement additional pages, like the tickets page and the schedule page. Make sure that you have a decent mobile design for them
+- Implement additional pages, which will allow the user to Register
+
+- Implement additional pages, which will allow the user to Login
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +150,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Lucash2022/Capstone-Project-Competition-page/issues/2).
+Feel free to check the [issues page](https://github.com/Lucash2022/Awesome_Book/issues/2).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,11 +166,17 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+[Font Awesome](https://fontawesome.com/search?q=book&o=r)
+
+[Icons8](https://icons8.com/icons/set/books)
+
+[Google Fonts](https://developers.google.com/fonts)
 
 
-[Fontawsome](https://fontawesome.com/) Special thanks to fontawsome for the icons assets.
+[Bootsrtap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
-Alex Ogeto[@alex_ogeto](https://github.com/Osoro254Alex) Special thanks for motivating me.
+
+[Luxon](https://imdac.github.io/modules/js/luxon/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
