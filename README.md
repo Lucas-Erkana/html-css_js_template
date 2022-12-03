@@ -38,10 +38,12 @@ This project is about a .....................................
   <tr>
     <th style="border: 1px solid black;">Desktop Version</th>
     <th>Mobile Version</th>
+     <th style="border: 1px solid black;">Mobile Version Menu</th>
   </tr>
   <tr style="border: 2px solid black;">
-  <td style="border: 1px solid black;"><img src="/images/DesktopVersion.jpg" alt="Desktop Version" width="140"  height="auto" /></td>
-  <td><img src="/images/MobileVersion.jpg" alt="Mobile Version" width="140"  height="auto" /></td>
+  <td style="border: 1px solid black;"><img src="/images/DesktopVersion.jpg" alt="Desktop Version" width="300"  height="200" /></td>
+  <td><img src="/images/MobileVersion.jpg" alt="Mobile Version" width="180"  height="200" /></td>
+   <td><img src="/images/MobileVersionMenu.jpg" alt="Mobile Version" width="180"  height="200" /></td>
   </tr>
 </table>
 **Project name** is a website that will......................................... 
@@ -70,7 +72,7 @@ Here are some features of the page:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Random Password Generator]( https://lucash2022.github.io/Awesome_Book/)
+[Project Title](link to deployed website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
