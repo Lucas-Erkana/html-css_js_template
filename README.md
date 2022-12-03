@@ -127,7 +127,7 @@ Clone this repository to your desired folder:
 ## 👤**Authors** <a name="authors"></a>
 <h4>Author name</h4>
 
-- <img src="/images/github.svg" alt="logo" width="20"  height="30" />GitHub: [@githubhandle](https://github.com/Lucash2022)
+- <img src="/images/github.svg" alt="logo" width="20"  height="20" />GitHub: [@githubhandle](https://github.com/Lucash2022)
 - Twitter: [@twitterhandle](https://twitter.com/@Lucas_David_22)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
 - Facebook: [@facebook](https://www.facebook.com/lucash.toni)
