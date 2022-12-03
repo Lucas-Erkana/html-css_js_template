@@ -127,10 +127,10 @@ Clone this repository to your desired folder:
 ## 👤**Authors** <a name="authors"></a>
 <h4>Author name</h4>
 
-- GitHub: <img src="/images/github.svg" alt="logo" width="15"  height="15" />[@githubhandle](https://github.com/Lucash2022)
-- Twitter: [@twitterhandle](https://twitter.com/@Lucas_David_22)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
-- Facebook: [@facebook](https://www.facebook.com/lucash.toni)
+- GitHub: <img src="/images/github.svg" alt="logo" width="18"  height="18" />[@githubhandle](https://github.com/Lucash2022)
+- Twitter:  <img src="/images/twitter.svg" alt="logo" width="18"  height="18" /> [@twitterhandle](https://twitter.com/@Lucas_David_22)
+- LinkedIn:  <img src="/images/linkedin.svg" alt="logo" width="18"  height="18" /> [LinkedIn](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
+- Facebook:   <img src="/images/facebook.svg" alt="logo" width="18"  height="18" />[@facebook](https://www.facebook.com/lucash.toni)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
