@@ -41,9 +41,9 @@ This project is about a .....................................
      <th style="border: 1px solid black;">Mobile Version Menu</th>
   </tr>
   <tr style="border: 2px solid black;">
-  <td style="border: 1px solid black;"><img src="/images/DesktopVersion.jpg" alt="Desktop Version" width="300"  height="200" /></td>
-  <td><img src="/images/MobileVersion.jpg" alt="Mobile Version" width="180"  height="200" /></td>
-   <td><img src="/images/MobileVersionMenu.jpg" alt="Mobile Version" width="180"  height="200" /></td>
+  <td style="border: 1px solid black;"><img src="/images/DesktopVersion.jpg" alt="Desktop Version" width="400"  height="200" /></td>
+  <td><img src="/images/MobileVersion.jpg" alt="Mobile Version" width="150"  height="200" /></td>
+   <td><img src="/images/MobileVersionMenu.jpg" alt="Mobile Version" width="150"  height="200" /></td>
   </tr>
 </table>
 **Project name** is a website that will......................................... 
