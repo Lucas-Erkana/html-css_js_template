@@ -85,7 +85,7 @@ Here are some features of the page:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Awesome_Book.git
+- On the terminal run this command git clone [link to repository]
 
 - Go to the repository folder using command prompt cd Awesome_Book.
 
@@ -112,7 +112,7 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/[name of repositor].git
+- On the terminal run this command git clone [link to repository].git
 
 - Go to the repository folder using command prompt cd [name of repository].
 
