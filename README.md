@@ -72,7 +72,7 @@ Here are some features of the page:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Project Title](link to deployed website)
+[html-css_javascipt template](https://lucash2022.github.io/html-css_js_template/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
